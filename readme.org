@@ -76,3 +76,162 @@ Data cleaning?
 ** Answer
 Process that include validating data, identifying errors, translating between data
 types and representation
+* Question :drill:
+Distribution?
+
+** Answer
+The values that appear in a sample and the frequency of each
+
+
+* Question :drill:
+Histogram?
+
+** Answer
+A mapping from values to frequencies, or a graph that shows this mapping
+
+* Question :drill:
+Frequency?
+
+** Answer
+The number of times a value appears in a sample 
+
+* Question :drill:
+Mode?
+
+** Answer
+The most frequent value in a sample, or one of the most frequent values
+
+* Question :drill:
+Normal Distribution?
+
+** Answer
+An idealization of a bell-shaped distribution; also known as a Gaussian distribution
+
+* Question :drill:
+Uniform Distribution?
+
+** Answer
+A distribution in which all the values have the same frequency
+
+* Question :drill:
+Tail?
+
+** Answer
+The part of a distribution at the high and low extremes
+
+* Question :drill:
+Central Tendency?
+
+** Answer
+A characteristic of a sample or population; intuitively, it is an average or typical value
+
+* Question :drill:
+Outlier?
+
+** Answer
+A value far from the central tendency
+
+* Question :drill:
+Spread?
+
+** Answer
+A measure of how spread out the values in a distribution are
+
+* Question :drill:
+Summary Statistic?
+
+** Answer
+A statistic that quantifies some aspect of a distribution, like the central tendency or spread
+
+* Question :drill:
+Variance?
+
+** Answer
+A summary statistic often used to quantify spread
+
+* Question :drill:
+Standard Deviation?
+
+** Answer
+The square root of variance, also used as a measure of spread
+
+* Question :drill:
+Effect Size?
+
+** Answer
+A summary statistic intended to quantify the size of an effect like the difference between groups
+
+
+* Question :drill:
+Statistically Significant ?
+
+** Answer
+A result, like a difference between groups, that is relevant in practice
+
+* Question :drill:
+Probability Mass Function (PMF)?
+
+** Answer
+A representation of a distribution as a function that maps from values to probabilities
+
+
+* Question :drill:
+Probability?
+
+** Answer
+A frequency expressed as a fraction of the sample size
+
+
+* Question :drill:
+Normalization?
+
+** Answer
+The process of dividing a frequency by a sample size to get a probability
+
+
+* Question :drill:
+Percentile Rank?
+
+** Answer
+The percentage of values in a distribution that are less than or equal to a given value* Question :drill:
+Percentile?
+
+** Answer
+The value associated with a given percentile rank
+
+* Question :drill:
+Cumulative Distribution Function (CDF)?
+
+** Answer
+A function that maps from values to their cumulative probabilitys. CDF(x) is the fraction of the sample less than or equal to x
+
+* Question :drill:
+Inverse CDF?
+
+** Answer
+A function that maps from a cumulative probability to the corresponding value
+
+* Question :drill:
+Median?
+
+** Answer
+The 50th percentile, often used as a measure of central tendency
+
+* Question :drill:
+Interquartile Range?
+
+** Answer
+The difference between the 75th and the 25th percentiles, used as a measure of spread
+
+* Question :drill:
+Quantile?
+
+** Answer
+A sequence of values that correspond to equally spaced percentile ranks; for example, the quartiles of a distribution are the 25th, 50th, 75th percentiles
+
+* Question :drill:
+Replacement?
+
+** Answer
+A property of a sampling process. "With replacement" means that the same value can be chosen more than once; "without replacement means "
+that once a value is chosen, it is removed from the population.
